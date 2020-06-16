@@ -1,0 +1,3 @@
+
+
+This is a repository that contains all the small and medium size codes I have written in Python so far.
